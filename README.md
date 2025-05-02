@@ -67,11 +67,11 @@ kode repl
 
 For more detailed information, check out these resources:
 
-- [Language Syntax](docs/syntax.md)
-- [CLI Reference](docs/cli.md)
-- [Complete Wiki](docs/wiki.md)
-- [Development Roadmap](docs/roadmap.md)
-- [Bytecode Format](docs/bytecode_format.md)
+- [Language Syntax](./docs/syntax.md)
+- [CLI Reference](./docs/cli.md)
+- [Complete Wiki](./docs/wiki.md)
+- [Development Roadmap](./docs/roadmap.md)
+- [Bytecode Format](./docs/bytecode.md)
 
 ## 🤝 Contributing
 
@@ -79,7 +79,7 @@ Contributions are welcome! Please check our [contribution guidelines](CONTRIBUTI
 
 ## 📊 Project Status
 
-Kode is currently in beta (v0.2.0). See the [changelog](CHANGELOG.md) for recent updates and our [roadmap](docs/roadmap.md) for future plans.
+Kode is currently in beta (v0.1.0). See the [changelog](CHANGELOG.md) for recent updates and our [roadmap](./docs/roadmap.md) for future plans.
 
 ## 📄 License
 
