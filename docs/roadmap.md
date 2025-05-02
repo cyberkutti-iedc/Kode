@@ -10,7 +10,7 @@ This document outlines the future direction and development goals for the Kode p
 
 ---
 
-## ✅ Short-Term Goals (v0.2.x)
+## ✅ Short-Term Goals (v0.1.x)
 
 - [x] **Bytecode Compilation**: Compile `.kode` to `.kdc` using `bincode`
 - [x] **REPL Improvements**: Enhanced interactive environment with better error reporting
@@ -23,7 +23,7 @@ This document outlines the future direction and development goals for the Kode p
 
 ---
 
-## 🚧 Mid-Term Goals (v0.3.x)
+## 🚧 Mid-Term Goals (v0.2.x)
 
 - [ ] **Native Code Generation**: Add initial support in `codegen.rs`
 - [ ] **Static Type Checking**: Optional type hints and basic validation
