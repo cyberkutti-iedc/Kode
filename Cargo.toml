@@ -2,7 +2,7 @@
 name = "kode_compiler"
 version = "0.1.0"
 edition = "2024"  # Changed from 2024 as it's not released yet
-authors = ["Your Name <your.email@example.com>"]
+authors = ["SREERAJ V RAJESH <cyberkutti@gmail.com>"]
 description = "A compiler for the Kode programming language"
 readme = "README.md"
 license = "MIT"
